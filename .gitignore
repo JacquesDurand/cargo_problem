@@ -1,0 +1,13 @@
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/cargo/config/secrets/prod/prod.decrypt.private.php
+/cargo/public/bundles/
+/var/
+cargo/var
+/vendor/
+/cargo/vendor
+
+.editorconfig
+###< symfony/framework-bundle ###
